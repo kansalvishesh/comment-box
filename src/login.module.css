@@ -1,0 +1,40 @@
+.boxShadow{
+    display: flex;
+    align-items: center;
+    border: 2px solid #111;
+    border-radius: 5px;
+    text-align: center;
+    max-width: 70%;
+    flex-direction: column;
+    justify-content: center;
+    padding:5% 0 5% 0;
+    margin: 10% auto;
+    overflow: hidden;
+    box-shadow:rgba(0, 0, 0, 0.571) 0 0 10px ;
+}
+.inputField{
+    border-top:0px;
+    border-left:0px;
+    border-right: 0px;
+    border-bottom: 1px solid #333;
+    text-align: center;
+}
+.marginBottom{
+    margin-bottom: 0;
+    
+}
+
+
+.MarginBottom20{
+    margin-bottom: 20px;
+
+}
+.box{
+    border: 1px solid #aaa;
+    padding: 5%;
+    margin: 10px;
+    border-radius: 10px;
+}
+.outershadow{
+    box-shadow:rgba(0, 0, 0, 0.571) 0 0 10px ;
+}
